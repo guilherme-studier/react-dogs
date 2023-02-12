@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Layout da aplicação" width="100%" src="src/assets/screenshot.png" />
+  <img alt="Layout da aplicação" width="100%" src="src/Assets/screenshot.png" />
 </p>
 
 ## Projeto
